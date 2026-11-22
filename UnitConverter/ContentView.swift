@@ -8,6 +8,8 @@
 //  Day 18 Challenge
 //  Version 1.0
 //  https://www.hackingwithswift.com/100/swiftui
+//
+//  I chose to do the temperature unit converter
 
 import SwiftUI
 
